@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm MCSSAM</h1>
+<h1 align="center">Hi, I'm CODEDITLEARN</h1>
 <h3 align="center">
   Front-End & Back-End 풀스택 선수민입니다.
 </h3>
