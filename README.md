@@ -14,7 +14,7 @@
 - Backend web development (Java, Servlet/JSP)
 - Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
 - Oracle, MySQL
-- Portfolio <a href="codeditlearn.com">포트폴리오 보러가기</a>
+- Portfolio <a href="http://codeditlearn.com">포트폴리오 보러가기</a>
 <br>
 
 
