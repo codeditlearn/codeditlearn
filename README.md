@@ -7,15 +7,14 @@
 안녕하세요, 저는 풀스택웹개발자[선수민]입니다. 노력하는 풀 스택 웹 개발자입니다.
 </p>
   
-- 💼 IT 풀스택 강의가 필요하세요? 의뢰해 주세요, [email](mailto:codeditlearn@gmail.com) :)
-- 💬 어떠한 것이든 문의해 주세요, 기꺼이 도움을;;
+- 💼 CONTACT : [email](mailto:codeditlearn@gmail.com) :)
 <br>
 
 **My tech stack :**  
 - Backend web development (Java, Servlet/JSP)
 - Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
 - Oracle, MySQL
-- Portfolio
+- Portfolio <a href="codeditlearn.com">포트폴리오 보러가기</a>
 <br>
 
 
@@ -30,9 +29,7 @@
 
 <p><img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;</p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -41,7 +38,7 @@
 
 **Current Lecture :** 
 
-- 2022.07.27 ~ 
+* [스마트웹&콘텐츠개발]풀스택 자바웹개발자_혼합C  2023.10 ~ 2024.03
 <br /><br />
 
 
