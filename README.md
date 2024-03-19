@@ -18,6 +18,7 @@
 <br>
 
 
+
 **languages and tools :**
 <!-- 뱃지 사용방법 -->
   <!-- 뱃지 아이콘 사이트 -->
@@ -44,6 +45,6 @@
 
 <br />
 
-<code>
-  <img width="200" src="http://codeditlearn.com/assets/images/project_1.png" alt="img"/>
-</code>
+<p>
+  ![제목 없는 다이어그램 drawio](https://github.com/codeditlearn/codeditlearn/assets/149052182/190b663d-cdab-456a-8a20-6630fd2c1c97)
+</p>
