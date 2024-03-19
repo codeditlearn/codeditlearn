@@ -46,6 +46,6 @@
 <br />
 
 <p>
-  <img height="20" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png](https://github.com/codeditlearn/codeditlearn/assets/149052182/190b663d-cdab-456a-8a20-6630fd2c1c97)">
+  <img width="300" src="https://github.com/codeditlearn/codeditlearn/assets/149052182/190b663d-cdab-456a-8a20-6630fd2c1c9">
   ![제목 없는 다이어그램 drawio](https://github.com/codeditlearn/codeditlearn/assets/149052182/190b663d-cdab-456a-8a20-6630fd2c1c97)
 </p>
