@@ -46,6 +46,6 @@
 <br />
 
 <p>
-  <img width="300" src="https://github.com/codeditlearn/codeditlearn/assets/149052182/190b663d-cdab-456a-8a20-6630fd2c1c9">
+  <img width="300" src="https://github-production-user-asset-6210df.s3.amazonaws.com/149052182/313904813-190b663d-cdab-456a-8a20-6630fd2c1c97.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240319%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240319T033301Z&X-Amz-Expires=300&X-Amz-Signature=e55368559df904ad24c1e5a12e6badf2f66e4542bba9929433dc3e164a0fe205&X-Amz-SignedHeaders=host&actor_id=149052182&key_id=0&repo_id=771873203">
   ![제목 없는 다이어그램 drawio](https://github.com/codeditlearn/codeditlearn/assets/149052182/190b663d-cdab-456a-8a20-6630fd2c1c97)
 </p>
