@@ -44,6 +44,6 @@
 
 <br />
 
-<div>
-  <img src="http://codeditlearn.com/assets/images/project_1.png" alt="img"/>
-</div>
+<code>
+  <img width="200" src="http://codeditlearn.com/assets/images/project_1.png" alt="img"/>
+</code>
