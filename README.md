@@ -7,7 +7,7 @@
 안녕하세요, 저는 노력하는 풀스택웹개발자[선수민]입니다.
 </p>
   
-- 💼 CONTACT : [email](mailto:codeditlearn@gmail.com) :)
+- 💼 CONTACT : [email](mailto:codeditlearn@gmail.com) :) codeditlearn@gmail.com
 <br>
 
 **My tech stack :**  
@@ -45,15 +45,4 @@
 
 <br />
 
-<p>
-  <img width="600" src="https://github-production-user-asset-6210df.s3.amazonaws.com/149052182/313904813-190b663d-cdab-456a-8a20-6630fd2c1c97.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240319%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240319T033301Z&X-Amz-Expires=300&X-Amz-Signature=e55368559df904ad24c1e5a12e6badf2f66e4542bba9929433dc3e164a0fe205&X-Amz-SignedHeaders=host&actor_id=149052182&key_id=0&repo_id=771873203">
- 
-</p>
 
-<p>
-
-
-https://github.com/codeditlearn/codeditlearn/assets/149052182/579c668b-2962-445f-a66b-943be8af7d63
-
-
-</p>
