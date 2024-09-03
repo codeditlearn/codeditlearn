@@ -11,9 +11,9 @@
 <br>
 
 **My tech stack :**  
-- Backend (Java, Servlet/JSP, Spring)
+- Backend (Java, Servlet/JSP, Spring, JPA)
 - Frontend (HTML, CSS, javaScript, jQuery, React.js)
-- Oracle, MySQL
+- Oracle, MySQL, MariaDB
 - Portfolio <a href="http://codeditlearn.com">포트폴리오 보러가기</a>
 <br>
 
